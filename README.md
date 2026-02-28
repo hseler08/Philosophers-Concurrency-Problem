@@ -36,3 +36,5 @@ The program tracks:
 * **WaitTicks**: Total time spent waiting for "locked doors."
 * **Meals**: Total number of successful eating sessions.
 * **avg_wait_ms**: Average wait time per meal (lower is better).
+
+*Created for educational purposes to master multi-threading and concurrency in C#.*
